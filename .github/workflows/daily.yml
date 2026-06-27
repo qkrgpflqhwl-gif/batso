@@ -1,0 +1,42 @@
+name: 받소 일일 수집
+
+on:
+  schedule:
+    # 매일 오후 6시 KST = UTC 09:00
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+    # 수동 실행도 가능 (Actions 탭에서 "Run workflow" 버튼)
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 라이브러리 설치
+        run: pip install -r requirements.txt
+
+      - name: 수집 실행
+        env:
+          BIZINFO_JIWON_KEY: ${{ secrets.BIZINFO_JIWON_KEY }}
+          GOV_HYETAEK_KEY: ${{ secrets.GOV_HYETAEK_KEY }}
+          KISED_JIWON_KEY: ${{ secrets.KISED_JIWON_KEY }}
+        run: python collect.py
+
+      - name: 결과 커밋 & 푸시
+        run: |
+          git config user.name "batso-bot"
+          git config user.email "bot@batso"
+          git add index.html data.json
+          git diff --cached --quiet || git commit -m "수집 완료: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git push

@@ -2,10 +2,8 @@ name: 받소 일일 수집
 
 on:
   schedule:
-    # 매일 오후 6시 KST = UTC 09:00
     - cron: '0 9 * * *'
   workflow_dispatch:
-    # 수동 실행도 가능 (Actions 탭에서 "Run workflow" 버튼)
 
 permissions:
   contents: write
@@ -37,7 +35,7 @@ jobs:
         run: |
           git config user.name "batso-bot"
           git config user.email "bot@batso"
-          git pull --rebase
           git add index.html data.json
           git diff --cached --quiet || git commit -m "수집 완료: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
+          git pull --rebase
           git push

@@ -37,6 +37,7 @@ jobs:
         run: |
           git config user.name "batso-bot"
           git config user.email "bot@batso"
+          git pull --rebase
           git add index.html data.json
           git diff --cached --quiet || git commit -m "수집 완료: $(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M')"
           git push

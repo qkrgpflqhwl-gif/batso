@@ -1,138 +1,47 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-<meta charset="UTF-8">
+<!DOCTYPE html><html lang="ko"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>받소 — 소상공인 지원사업 모음</title>
-<style>
+<title>받소 — 소상공인 지원사업</title><style>
 @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css');
-*{box-sizing:border-box;margin:0}
-body{font-family:'Pretendard',sans-serif;background:#FBFAF6;color:#1C1B17;padding:20px;max-width:720px;margin:0 auto}
-.hd h1{font-size:22px;font-weight:800;color:#117A56}
-.hd p{font-size:13px;color:#6E6A60;margin-top:4px}
-.stats{display:flex;gap:12px;font-size:13px;color:#6E6A60;margin:12px 0}
-.stats b{color:#1C1B17} .stats .hot{color:#C0392B}
-.bar{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap}
-.bar input,.bar select{padding:10px 12px;border:1px solid #EAE6DB;border-radius:9px;font-family:inherit;font-size:13px;background:#fff}
-.bar input{flex:1;min-width:200px}
-.bar input:focus,.bar select:focus{outline:2px solid #117A56}
-.card{background:#fff;border:1px solid #EAE6DB;border-radius:12px;padding:14px 16px;margin-bottom:10px;display:block}
-.card.urgent{border-left:4px solid #C0392B}
-.card.normal{border-left:4px solid #B57500}
-.card.always{border-left:4px solid #117A56}
-.card.hide{display:none}
-.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}
-.field{font-size:11px;font-weight:700;color:#6E6A60}
-.dday{font-size:12px;font-weight:700;padding:2px 8px;border-radius:99px}
-.dday.r{background:#FBEAE5;color:#C0392B}
-.dday.y{background:#FBF1DC;color:#B57500}
-.dday.g{background:#E6F2EC;color:#117A56}
-.card h3{font-size:15px;font-weight:700;margin-bottom:3px;line-height:1.4}
-.org{font-size:12px;color:#6E6A60;margin-bottom:6px}
-.desc{font-size:13px;line-height:1.5;color:#3a382f;margin-bottom:6px}
-a.link{display:inline-block;margin-top:6px;font-size:12px;font-weight:700;color:#117A56;text-decoration:none}
-a.link:hover{text-decoration:underline}
-.empty{text-align:center;padding:40px;color:#6E6A60;font-size:14px;display:none}
-.ft{margin-top:24px;font-size:11px;color:#6E6A60;text-align:center;line-height:1.6}
-</style>
-</head>
-<body>
-<div class="hd">
-<h1>받소</h1>
-<p>마지막 수집: 2026-06-28 01:17 (KST)</p>
-</div>
-<div class="stats">
-<span>신청 가능 <b>9</b>건</span>
-<span>마감 임박 <b class="hot">0</b>건 (7일 이내)</span>
-</div>
-<div class="bar">
-<input type="text" id="q" placeholder="검색 (사업명, 기관, 키워드)" oninput="ft()">
-<select id="src" onchange="ft()">
-<option value="">전체 소스</option>
-<option value="KPIPA">KPIPA</option>
-</select>
-</div>
+*{box-sizing:border-box;margin:0}body{font-family:'Pretendard',sans-serif;background:#FBFAF6;color:#1C1B17;padding:20px;max-width:720px;margin:0 auto}
+.hd h1{font-size:22px;font-weight:800;color:#117A56}.hd p{font-size:13px;color:#6E6A60;margin-top:4px}
+.stats{display:flex;gap:12px;font-size:13px;color:#6E6A60;margin:12px 0}.stats b{color:#1C1B17}.stats .hot{color:#C0392B}
+.bar{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap}.bar input,.bar select{padding:10px 12px;border:1px solid #EAE6DB;border-radius:9px;font-family:inherit;font-size:13px;background:#fff}.bar input{flex:1;min-width:200px}.bar input:focus,.bar select:focus{outline:2px solid #117A56}
+.card{background:#fff;border:1px solid #EAE6DB;border-radius:12px;padding:14px 16px;margin-bottom:10px}.card.urgent{border-left:4px solid #C0392B}.card.normal{border-left:4px solid #B57500}.card.always{border-left:4px solid #117A56}.card.hide{display:none}
+.top{display:flex;justify-content:space-between;align-items:center;margin-bottom:6px}.field{font-size:11px;font-weight:700;color:#6E6A60}
+.dday{font-size:12px;font-weight:700;padding:2px 8px;border-radius:99px}.dday.r{background:#FBEAE5;color:#C0392B}.dday.y{background:#FBF1DC;color:#B57500}.dday.g{background:#E6F2EC;color:#117A56}
+.card h3{font-size:15px;font-weight:700;margin-bottom:3px;line-height:1.4}.org{font-size:12px;color:#6E6A60;margin-bottom:6px}.desc{font-size:13px;line-height:1.5;color:#3a382f;margin-bottom:6px}
+a.link{display:inline-block;margin-top:6px;font-size:12px;font-weight:700;color:#117A56;text-decoration:none}a.link:hover{text-decoration:underline}
+.empty{text-align:center;padding:40px;color:#6E6A60;font-size:14px;display:none}.ft{margin-top:24px;font-size:11px;color:#6E6A60;text-align:center;line-height:1.6}
+</style></head><body>
+<div class="hd"><h1>받소</h1><p>마지막 수집: 2026-06-28 12:23 (KST)</p></div>
+<div class="stats"><span>총 <b>6</b>건</span><span>마감 임박 <b class="hot">0</b>건</span></div>
+<div class="bar"><input type="text" id="q" placeholder="검색" oninput="ft()">
+<select id="src" onchange="ft()"><option value="">전체</option><option value="KPIPA">KPIPA</option></select></div>
 <div id="list"><div class="card always" data-source="KPIPA" data-title="[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(후속과제) 공고" data-org="한국출판문화산업진흥원(kpipa)">
 <div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(후속과제) 공고</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2104" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
+<h3>[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(후속과제) 공고</h3><div class="org">한국출판문화산업진흥원(KPIPA)</div>
+<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2104" target="_blank" rel="noopener">공고 원문 →</a></div>
 <div class="card always" data-source="KPIPA" data-title="[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(신규과제) 공고" data-org="한국출판문화산업진흥원(kpipa)">
 <div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(신규과제) 공고</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2103" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
+<h3>[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(신규과제) 공고</h3><div class="org">한국출판문화산업진흥원(KPIPA)</div>
+<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2103" target="_blank" rel="noopener">공고 원문 →</a></div>
 <div class="card always" data-source="KPIPA" data-title="[사업공고]2026년 독서경영 우수직장 인증 신청 공고" data-org="한국출판문화산업진흥원(kpipa)">
 <div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[사업공고]2026년 독서경영 우수직장 인증 신청 공고</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2102" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
+<h3>[사업공고]2026년 독서경영 우수직장 인증 신청 공고</h3><div class="org">한국출판문화산업진흥원(KPIPA)</div>
+<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2102" target="_blank" rel="noopener">공고 원문 →</a></div>
 <div class="card always" data-source="KPIPA" data-title="[사업공고]2026 지역서점·협동조합 확인 제도 의견 수렴 간담회 개최(6.25.)" data-org="한국출판문화산업진흥원(kpipa)">
 <div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[사업공고]2026 지역서점·협동조합 확인 제도 의견 수렴 간담회 개최(6.25.)</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2099" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
+<h3>[사업공고]2026 지역서점·협동조합 확인 제도 의견 수렴 간담회 개최(6.25.)</h3><div class="org">한국출판문화산업진흥원(KPIPA)</div>
+<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2099" target="_blank" rel="noopener">공고 원문 →</a></div>
 <div class="card always" data-source="KPIPA" data-title="[기타공고]2026년 출판분야 컨설팅 안내" data-org="한국출판문화산업진흥원(kpipa)">
 <div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[기타공고]2026년 출판분야 컨설팅 안내</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2098" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
-<div class="card always" data-source="KPIPA" data-title="[결과공고]2026년 중소출판사 성장도약 제작지원 사업 추가 선정 공고" data-org="한국출판문화산업진흥원(kpipa)">
-<div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[결과공고]2026년 중소출판사 성장도약 제작지원 사업 추가 선정 공고</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2097" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
-<div class="card always" data-source="KPIPA" data-title="[결과공고]2026년 중소출판사 성장도약 제작지원 사업 선정 철회 공고" data-org="한국출판문화산업진흥원(kpipa)">
-<div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[결과공고]2026년 중소출판사 성장도약 제작지원 사업 선정 철회 공고</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2096" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
+<h3>[기타공고]2026년 출판분야 컨설팅 안내</h3><div class="org">한국출판문화산업진흥원(KPIPA)</div>
+<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2098" target="_blank" rel="noopener">공고 원문 →</a></div>
 <div class="card always" data-source="KPIPA" data-title="[기타공고]책 읽는 대한민국 x 독서원정대 6월 프로그램 참여 신청 안내(6.27.토, 파주 지혜의숲…" data-org="한국출판문화산업진흥원(kpipa)">
 <div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[기타공고]책 읽는 대한민국 X 독서원정대 6월 프로그램 참여 신청 안내(6.27.토, 파주 지혜의숲…</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2092" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
-<div class="card always" data-source="KPIPA" data-title="[결과공고]2026년 제2차 수출용 홍보자료(샘플) 지원 사업 선정 취소 공고" data-org="한국출판문화산업진흥원(kpipa)">
-<div class="top"><span class="field">KPIPA</span><span class="dday g">상시</span></div>
-<h3>[결과공고]2026년 제2차 수출용 홍보자료(샘플) 지원 사업 선정 취소 공고</h3>
-<div class="org">한국출판문화산업진흥원(KPIPA)</div>
-
-<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2090" target="_blank" rel="noopener">공고 원문 →</a>
-</div>
-</div>
-<div class="empty" id="empty">조건에 맞는 공고가 없어요</div>
-<div class="ft">출처: KPIPA<br>마감된 공고는 자동으로 제외됩니다</div>
-<script>
-function ft(){
-var q=document.getElementById("q").value.toLowerCase();
-var s=document.getElementById("src").value;
-var cards=document.querySelectorAll(".card");
-var n=0;
-cards.forEach(function(c){
-var ok=true;
-if(q){var t=c.getAttribute("data-title")+c.getAttribute("data-org");if(t.indexOf(q)<0)ok=false;}
-if(s&&c.getAttribute("data-source")!==s)ok=false;
-c.classList.toggle("hide",!ok);
-if(ok)n++;
-});
-document.getElementById("empty").style.display=n?"none":"block";
-}
-</script>
-</body>
-</html>
+<h3>[기타공고]책 읽는 대한민국 X 독서원정대 6월 프로그램 참여 신청 안내(6.27.토, 파주 지혜의숲…</h3><div class="org">한국출판문화산업진흥원(KPIPA)</div>
+<a class="link" href="https://new.kpipa.or.kr/p/g1_2/2092" target="_blank" rel="noopener">공고 원문 →</a></div>
+</div><div class="empty" id="empty">조건에 맞는 공고가 없어요</div>
+<div class="ft">출처: KPIPA</div>
+<script>function ft(){var q=document.getElementById("q").value.toLowerCase(),s=document.getElementById("src").value,c=document.querySelectorAll(".card"),n=0;c.forEach(function(e){var ok=true;if(q){var t=e.getAttribute("data-title")+e.getAttribute("data-org");if(t.indexOf(q)<0)ok=false}if(s&&e.getAttribute("data-source")!==s)ok=false;e.classList.toggle("hide",!ok);if(ok)n++});document.getElementById("empty").style.display=n?"none":"block"}</script>
+</body></html>

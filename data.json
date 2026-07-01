@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-06-30 20:45",
-  "total": 5,
+  "updated_at": "2026-07-01 21:08",
+  "total": 7,
   "programs": [
+    {
+      "title": "[사업공고]2027년 대한민국 독서대전 개최 지자체 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2110"
+    },
+    {
+      "title": "[사업공고]2026년 제5차 수출용 홍보자료(샘플) 지원 사업 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2109"
+    },
     {
       "title": "[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(후속과제) 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",

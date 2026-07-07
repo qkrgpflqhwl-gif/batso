@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-07-06 21:47",
+  "updated_at": "2026-07-07 20:51",
   "total": 8,
   "programs": [
     {
-      "title": "[기타공고]「2026년 웹소설 번역인력 양성」 교육과정 수강생 모집새글",
+      "title": "[사업공고]2026년 한-불 출판 펠로우십 국내 참가사 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2114"
+    },
+    {
+      "title": "[기타공고]「2026년 웹소설 번역인력 양성」 교육과정 수강생 모집",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -64,15 +73,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2102"
-    },
-    {
-      "title": "[사업공고]2026 지역서점·협동조합 확인 제도 의견 수렴 간담회 개최(6.25.)",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2099"
     }
   ]
 }

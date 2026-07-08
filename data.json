@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-07-07 20:51",
+  "updated_at": "2026-07-08 20:04",
   "total": 8,
   "programs": [
     {
-      "title": "[사업공고]2026년 한-불 출판 펠로우십 국내 참가사 모집 공고새글",
+      "title": "[기타공고]2026년 달리는 책 놀이터 운영 안내새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2118"
+    },
+    {
+      "title": "[사업공고]2026 대한민국 그림책상 공모새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2116"
+    },
+    {
+      "title": "[사업공고]2026년 한-불 출판 펠로우십 국내 참가사 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -55,24 +73,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2104"
-    },
-    {
-      "title": "[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(신규과제) 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2103"
-    },
-    {
-      "title": "[사업공고]2026년 독서경영 우수직장 인증 신청 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2102"
     }
   ]
 }

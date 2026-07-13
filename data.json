@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-07-12 19:28",
+  "updated_at": "2026-07-13 21:06",
   "total": 8,
   "programs": [
+    {
+      "title": "[사업공고]<지역서점 및 지역서점협동조합 확인 절차> 안내(2026년 1차)새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2119"
+    },
     {
       "title": "[기타공고]2026년 달리는 책 놀이터 운영 안내",
       "org": "한국출판문화산업진흥원(KPIPA)",
@@ -64,15 +73,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2109"
-    },
-    {
-      "title": "[사업공고]2026년 출판콘텐츠 기술개발 지원 사업(후속과제) 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2104"
     }
   ]
 }

@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-07-19 19:28",
+  "updated_at": "2026-07-20 20:45",
   "total": 8,
   "programs": [
+    {
+      "title": "[사업공고]2026년 수출아카데미 AI 활용 특강 수강생 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2123"
+    },
     {
       "title": "[사업공고]<지역서점 및 지역서점협동조합 확인 절차> 안내(2026년 1차)",
       "org": "한국출판문화산업진흥원(KPIPA)",
@@ -64,15 +73,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2110"
-    },
-    {
-      "title": "[사업공고]2026년 제5차 수출용 홍보자료(샘플) 지원 사업 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2109"
     }
   ]
 }

@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-07-20 20:45",
-  "total": 8,
+  "updated_at": "2026-07-21 20:08",
+  "total": 7,
   "programs": [
     {
-      "title": "[사업공고]2026년 수출아카데미 AI 활용 특강 수강생 모집 공고새글",
+      "title": "[기타공고]2026년 제1회 디지털출판 세미나 <AI시대, 출판 콘텐츠 비즈니스의 재구성> 개최 안내…새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2125"
+    },
+    {
+      "title": "[사업공고]2026년 수출아카데미 AI 활용 특강 수강생 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -55,24 +64,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2113"
-    },
-    {
-      "title": "[기타공고]지역서점·협동조합 확인 절차 설명회 개최 안내(7.7.~7.16.)",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2111"
-    },
-    {
-      "title": "[사업공고]2027년 대한민국 독서대전 개최 지자체 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2110"
     }
   ]
 }

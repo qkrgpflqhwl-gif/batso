@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-07-23 20:09",
-  "total": 7,
+  "updated_at": "2026-07-24 20:03",
+  "total": 6,
   "programs": [
+    {
+      "title": "[사업공고]「2026 지역서점 실태조사」 실시 안내 및 참여 협조 요청새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2129"
+    },
     {
       "title": "[기타공고]2026년 제1회 디지털출판 세미나 <AI시대, 출판 콘텐츠 비즈니스의 재구성> 개최 안내…",
       "org": "한국출판문화산업진흥원(KPIPA)",
@@ -46,24 +55,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2116"
-    },
-    {
-      "title": "[사업공고]2026년 한-불 출판 펠로우십 국내 참가사 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2114"
-    },
-    {
-      "title": "[기타공고]「2026년 웹소설 번역인력 양성」 교육과정 수강생 모집",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2113"
     }
   ]
 }

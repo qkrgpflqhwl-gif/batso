@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28 20:17",
-  "total": 6,
+  "updated_at": "2026-07-29 20:25",
+  "total": 5,
   "programs": [
     {
       "title": "[사업공고]「2026 지역서점 실태조사」 실시 안내 및 참여 협조 요청",
@@ -46,15 +46,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2118"
-    },
-    {
-      "title": "[사업공고]2026 대한민국 그림책상 공모",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2116"
     }
   ]
 }

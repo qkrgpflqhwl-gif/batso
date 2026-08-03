@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-02 19:40",
+  "updated_at": "2026-08-03 21:22",
   "total": 4,
   "programs": [
+    {
+      "title": "[사업공고]2026년 제6차 수출용 홍보자료(샘플) 지원 사업 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2134"
+    },
     {
       "title": "[사업공고]「2026 지역서점 실태조사」 실시 안내 및 참여 협조 요청",
       "org": "한국출판문화산업진흥원(KPIPA)",
@@ -28,15 +37,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2123"
-    },
-    {
-      "title": "[사업공고]<지역서점 및 지역서점협동조합 확인 절차> 안내(2026년 1차)",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2119"
     }
   ]
 }

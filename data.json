@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-04 20:22",
-  "total": 4,
+  "updated_at": "2026-08-05 20:20",
+  "total": 5,
   "programs": [
+    {
+      "title": "[사업공고]2027 독서 기반 지역 활성화 참여 지자체 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2137"
+    },
     {
       "title": "[사업공고]2026년 제6차 수출용 홍보자료(샘플) 지원 사업 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",

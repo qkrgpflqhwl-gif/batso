@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-08-05 20:20",
-  "total": 5,
+  "updated_at": "2026-08-06 20:22",
+  "total": 6,
   "programs": [
     {
-      "title": "[사업공고]2027 독서 기반 지역 활성화 참여 지자체 모집 공고새글",
+      "title": "[사업공고][한국서점연합회] 2026년 지역서점 공동수배송 운영 사업 추가 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2138"
+    },
+    {
+      "title": "[사업공고]2027 독서 기반 지역 활성화 참여 지자체 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",

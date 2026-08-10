@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-08-09 18:38",
-  "total": 6,
+  "updated_at": "2026-08-10 19:16",
+  "total": 8,
   "programs": [
+    {
+      "title": "[사업공고][한국서점연합회] 2026년 지역서점 스마트 기기 지원 참여 서점 모집새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2142"
+    },
+    {
+      "title": "[사업공고]2026년 하반기 수출아카데미 수강생 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2141"
+    },
+    {
+      "title": "[사업공고]2026년 하반기 KPIPA 디지털북센터 교육생 모집 공고(8.12.~마감 시) * 최종 …새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2140"
+    },
+    {
+      "title": "[기타공고]2026년 디지털 출판 실무특강 수강생 모집 (1차 8.31.~9.4./ 2차 9.14.~…새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2139"
+    },
     {
       "title": "[사업공고][한국서점연합회] 2026년 지역서점 공동수배송 운영 사업 추가 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
@@ -37,24 +73,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2129"
-    },
-    {
-      "title": "[기타공고]2026년 제1회 디지털출판 세미나 <AI시대, 출판 콘텐츠 비즈니스의 재구성> 개최 안내…",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2125"
-    },
-    {
-      "title": "[사업공고]2026년 수출아카데미 AI 활용 특강 수강생 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2123"
     }
   ]
 }

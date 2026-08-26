@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-08-25 18:34",
-  "total": 8,
+  "updated_at": "2026-08-26 18:40",
+  "total": 9,
   "programs": [
+    {
+      "title": "[기타공고]2026년 독서의 달 포스터 안내새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2147"
+    },
     {
       "title": "[사업공고]2026년 권역별 선도서점 육성 사업 컨설팅(경영·마케팅·디지털) 참여서점 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",

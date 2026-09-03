@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-02 22:17",
-  "total": 10,
+  "updated_at": "2026-09-03 22:16",
+  "total": 11,
   "programs": [
+    {
+      "title": "[기타공고]디지털도서관 온책방 이용 안내새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://new.kpipa.or.kr/p/g1_2/2150"
+    },
     {
       "title": "[사업공고]2026년 글로벌 출판전문인력 양성 교육 참가자 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",

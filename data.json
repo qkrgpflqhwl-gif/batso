@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-06 21:39",
-  "total": 11,
+  "updated_at": "2026-09-07 23:49",
+  "total": 10,
   "programs": [
     {
       "title": "[기타공고]디지털도서관 온책방 이용 안내",
@@ -91,15 +91,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2137"
-    },
-    {
-      "title": "[사업공고]2026년 제6차 수출용 홍보자료(샘플) 지원 사업 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2134"
     }
   ]
 }

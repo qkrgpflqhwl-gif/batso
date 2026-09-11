@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10 22:20",
-  "total": 11,
+  "updated_at": "2026-09-11 22:17",
+  "total": 10,
   "programs": [
     {
       "title": "[기타공고]제1회 2026 출판 데이터 마케팅 포럼 <데이터로 읽는 출판시장> 개최 안내",
@@ -91,15 +91,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://new.kpipa.or.kr/p/g1_2/2138"
-    },
-    {
-      "title": "[사업공고]2027 독서 기반 지역 활성화 참여 지자체 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://new.kpipa.or.kr/p/g1_2/2137"
     }
   ]
 }

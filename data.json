@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-09-15 23:11",
+  "updated_at": "2026-09-16 23:03",
   "total": 8,
   "programs": [
     {
-      "title": "[사업공고]2026년 권역별 선도서점 육성 사업 컨설팅(경영·마케팅·디지털) 참여서점 추가 모집 공고새글",
+      "title": "[사업공고]2026년 웹소설 번역비 지원 사업 추가 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2158"
+    },
+    {
+      "title": "[사업공고]2026년 권역별 선도서점 육성 사업 컨설팅(경영·마케팅·디지털) 참여서점 추가 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -64,15 +73,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2142"
-    },
-    {
-      "title": "[사업공고]2026년 하반기 수출아카데미 수강생 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2141"
     }
   ]
 }

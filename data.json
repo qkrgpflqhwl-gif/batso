@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-09-16 23:03",
+  "updated_at": "2026-09-17 23:08",
   "total": 8,
   "programs": [
     {
-      "title": "[사업공고]2026년 웹소설 번역비 지원 사업 추가 모집 공고새글",
+      "title": "[기타공고]2026년 수출용 홍보자료(샘플) 지원 사업 예산 소진 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2160"
+    },
+    {
+      "title": "[사업공고]2026년 웹소설 번역비 지원 사업 추가 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -64,15 +73,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2147"
-    },
-    {
-      "title": "[사업공고][한국서점연합회] 2026년 지역서점 스마트 기기 지원 참여 서점 모집(변경)",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2142"
     }
   ]
 }

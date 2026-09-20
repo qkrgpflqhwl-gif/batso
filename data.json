@@ -1,5 +1,78 @@
 {
-  "updated_at": "2026-09-19 21:54",
-  "total": 0,
-  "programs": []
+  "updated_at": "2026-09-20 22:28",
+  "total": 8,
+  "programs": [
+    {
+      "title": "[기타공고]2026년 수출용 홍보자료(샘플) 지원 사업 예산 소진 공고",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2160"
+    },
+    {
+      "title": "[사업공고]2026년 웹소설 번역비 지원 사업 추가 모집 공고",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2158"
+    },
+    {
+      "title": "[사업공고]2026년 권역별 선도서점 육성 사업 컨설팅(경영·마케팅·디지털) 참여서점 추가 모집 공고",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2155"
+    },
+    {
+      "title": "[기타공고]2026년 이화여대 통역번역대학원 가을 정기 학술대회 & 웹소설 번역인력 양성 교육과정 성…",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2154"
+    },
+    {
+      "title": "[기타공고]제1회 2026 출판 데이터 마케팅 포럼 <데이터로 읽는 출판시장> 개최 안내",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2152"
+    },
+    {
+      "title": "[기타공고]디지털도서관 온책방 이용 안내",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2150"
+    },
+    {
+      "title": "[사업공고]2026년 글로벌 출판전문인력 양성 교육 참가자 모집 공고",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2149"
+    },
+    {
+      "title": "[기타공고]2026년 독서의 달 포스터 안내",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2147"
+    }
+  ]
 }

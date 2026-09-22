@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-22 00:41",
-  "total": 8,
+  "updated_at": "2026-09-22 22:55",
+  "total": 9,
   "programs": [
+    {
+      "title": "[사업공고]2026년 웹소설 일러스트 제작 지원 사업 추가 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2163"
+    },
     {
       "title": "[기타공고]2026년 수출용 홍보자료(샘플) 지원 사업 예산 소진 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",

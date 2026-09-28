@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-09-27 23:34",
+  "updated_at": "2026-09-29 02:23",
   "total": 9,
   "programs": [
+    {
+      "title": "[사업공고]2026년 웹소설 IP 2차 저작화 지원 사업 추가 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2165"
+    },
     {
       "title": "[사업공고]2026년 문학나눔 도서 보급 사업 선정도서 보급 신청 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
@@ -73,15 +82,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2150"
-    },
-    {
-      "title": "[사업공고]2026년 글로벌 출판전문인력 양성 교육 참가자 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2149"
     }
   ]
 }

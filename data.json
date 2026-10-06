@@ -1,7 +1,16 @@
 {
-  "updated_at": "2026-10-06 02:58",
-  "total": 10,
+  "updated_at": "2026-10-07 00:42",
+  "total": 9,
   "programs": [
+    {
+      "title": "[사업공고][한국서점연합회] 2026년 지역서점 스마트 기기 지원 참여서점 모집(2차)새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2171"
+    },
     {
       "title": "[기타공고]2026년 제2회 디지털출판 세미나 <출판사의 디지털 전환과 새로운 비즈니스 기회> 개최 …",
       "org": "한국출판문화산업진흥원(KPIPA)",
@@ -73,24 +82,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2158"
-    },
-    {
-      "title": "[사업공고]2026년 권역별 선도서점 육성 사업 컨설팅(경영·마케팅·디지털) 참여서점 추가 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2155"
-    },
-    {
-      "title": "[기타공고]2026년 이화여대 통역번역대학원 가을 정기 학술대회 & 웹소설 번역인력 양성 교육과정 성…",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2154"
     }
   ]
 }

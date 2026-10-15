@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-10-14 23:21",
-  "total": 10,
+  "updated_at": "2026-10-15 22:59",
+  "total": 13,
   "programs": [
     {
-      "title": "[기타공고]<2026년 제13회 대한민국 전자출판 대상 시상식> 개최 안내새글",
+      "title": "소진공 지원사업 공고조회 및 신청",
+      "org": "소상공인시장진흥공단",
+      "source": "소상공인마당",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.sbiz24.kr/#/pbanc"
+    },
+    {
+      "title": "지방정부 지원사업 공고조회 및 신청",
+      "org": "소상공인시장진흥공단",
+      "source": "소상공인마당",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.sbiz24.kr/#/lcgPbanc"
+    },
+    {
+      "title": "유관기관 지원사업 공고조회",
+      "org": "소상공인시장진흥공단",
+      "source": "소상공인마당",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.sbiz24.kr/#/extldPbanc"
+    },
+    {
+      "title": "[기타공고]<2026 독서경영 우수 직장 인증제 영상 공모전> 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2177"
+    },
+    {
+      "title": "[기타공고]<2026년 제13회 대한민국 전자출판 대상 시상식> 개최 안내",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -82,15 +118,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2164"
-    },
-    {
-      "title": "[사업공고]2026년 웹소설 일러스트 제작 지원 사업 추가 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2163"
     }
   ]
 }

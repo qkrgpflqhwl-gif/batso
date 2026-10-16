@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15 22:59",
+  "updated_at": "2026-10-16 22:45",
   "total": 13,
   "programs": [
     {
@@ -30,7 +30,16 @@
       "url": "https://www.sbiz24.kr/#/extldPbanc"
     },
     {
-      "title": "[기타공고]<2026 독서경영 우수 직장 인증제 영상 공모전> 공고새글",
+      "title": "[사업공고][한국서점연합회] 2026년 지역서점 공동수배송 운영 사업 추가 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2179"
+    },
+    {
+      "title": "[기타공고]<2026 독서경영 우수 직장 인증제 영상 공모전> 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -109,15 +118,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2165"
-    },
-    {
-      "title": "[사업공고]2026년 문학나눔 도서 보급 사업 선정도서 보급 신청 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2164"
     }
   ]
 }

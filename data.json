@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16 22:45",
+  "updated_at": "2026-10-17 21:43",
   "total": 13,
   "programs": [
     {
@@ -30,7 +30,16 @@
       "url": "https://www.sbiz24.kr/#/extldPbanc"
     },
     {
-      "title": "[사업공고][한국서점연합회] 2026년 지역서점 공동수배송 운영 사업 추가 모집 공고새글",
+      "title": "[기타공고]2026 문학나눔 캠프 참가자 모집새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2181"
+    },
+    {
+      "title": "[사업공고][한국서점연합회] 2026년 지역서점 공동수배송 운영 사업 추가 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -109,15 +118,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2167"
-    },
-    {
-      "title": "[사업공고]2026년 웹소설 IP 2차 저작화 지원 사업 추가 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2165"
     }
   ]
 }

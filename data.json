@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-18 21:59",
-  "total": 13,
+  "updated_at": "2026-10-20 01:14",
+  "total": 14,
   "programs": [
     {
       "title": "소진공 지원사업 공고조회 및 신청",
@@ -28,6 +28,15 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.sbiz24.kr/#/extldPbanc"
+    },
+    {
+      "title": "[기타공고]제6차 출판문화산업 진흥 계획 수립을 위한 대국민 정책제안 공모새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2182"
     },
     {
       "title": "[기타공고]2026 문학나눔 캠프 참가자 모집",

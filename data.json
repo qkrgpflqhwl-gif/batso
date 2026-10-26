@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25 22:34",
-  "total": 12,
+  "updated_at": "2026-10-27 00:53",
+  "total": 11,
   "programs": [
     {
       "title": "소진공 지원사업 공고조회 및 신청",
@@ -100,15 +100,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2171"
-    },
-    {
-      "title": "[기타공고]2026년 제2회 디지털출판 세미나 <출판사의 디지털 전환과 새로운 비즈니스 기회> 개최 …",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2169"
     }
   ]
 }

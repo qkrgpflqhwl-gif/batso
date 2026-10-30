@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30 00:53",
+  "updated_at": "2026-10-31 00:35",
   "total": 11,
   "programs": [
     {
@@ -28,6 +28,15 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.sbiz24.kr/#/extldPbanc"
+    },
+    {
+      "title": "[기타공고]학술출판물 저작권 침해 대응 신고 절차 설명회 참여 모집새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2187"
     },
     {
       "title": "[기타공고]제6차 출판문화산업 진흥 계획 수립을 위한 대국민 정책제안 공모",
@@ -91,15 +100,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2173"
-    },
-    {
-      "title": "[사업공고][한국서점연합회] 2026년 지역서점 스마트 기기 지원 참여서점 모집(2차)",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2171"
     }
   ]
 }

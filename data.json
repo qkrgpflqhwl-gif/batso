@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06 02:08",
-  "total": 10,
+  "updated_at": "2026-11-07 01:36",
+  "total": 11,
   "programs": [
     {
       "title": "소진공 지원사업 공고조회 및 신청",
@@ -28,6 +28,15 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.sbiz24.kr/#/extldPbanc"
+    },
+    {
+      "title": "[사업공고]2026년 권역별 선도서점 육성 사업 컨설팅(경영·마케팅·디지털) 참여서점 2차 추가 모집…새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2191"
     },
     {
       "title": "[기타공고]2026년 제10회 서점의 날 기념식",

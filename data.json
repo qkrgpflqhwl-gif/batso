@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10 04:31",
-  "total": 10,
+  "updated_at": "2026-11-11 01:48",
+  "total": 9,
   "programs": [
     {
       "title": "소진공 지원사업 공고조회 및 신청",
@@ -28,6 +28,24 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.sbiz24.kr/#/extldPbanc"
+    },
+    {
+      "title": "[기타공고]제2회 2026 출판 데이터 마케팅 포럼 <데이터로 움직이는 출판시장> 개최 안내(26.1…새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2195"
+    },
+    {
+      "title": "[기타공고]2026년 제3회 디지털출판 세미나 <2026 디지털출판시장 결산과 전망> 개최 안내 (2…새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2194"
     },
     {
       "title": "[사업공고]2026년 권역별 선도서점 육성 사업 컨설팅(경영·마케팅·디지털) 참여서점 2차 추가 모집…",
@@ -64,33 +82,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2182"
-    },
-    {
-      "title": "[기타공고]2026 문학나눔 캠프 참가자 모집",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2181"
-    },
-    {
-      "title": "[사업공고][한국서점연합회] 2026년 지역서점 공동수배송 운영 사업 추가 모집 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2179"
-    },
-    {
-      "title": "[기타공고]<2026 독서경영 우수 직장 인증제 영상 공모전> 공고",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2177"
     }
   ]
 }

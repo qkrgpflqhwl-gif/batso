@@ -1,7 +1,34 @@
 {
-  "updated_at": "2026-11-12 01:55",
-  "total": 6,
+  "updated_at": "2026-11-13 02:22",
+  "total": 9,
   "programs": [
+    {
+      "title": "소진공 지원사업 공고조회 및 신청",
+      "org": "소상공인시장진흥공단",
+      "source": "소상공인마당",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.sbiz24.kr/#/pbanc"
+    },
+    {
+      "title": "지방정부 지원사업 공고조회 및 신청",
+      "org": "소상공인시장진흥공단",
+      "source": "소상공인마당",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.sbiz24.kr/#/lcgPbanc"
+    },
+    {
+      "title": "유관기관 지원사업 공고조회",
+      "org": "소상공인시장진흥공단",
+      "source": "소상공인마당",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.sbiz24.kr/#/extldPbanc"
+    },
     {
       "title": "[기타공고]제2회 2026 출판 데이터 마케팅 포럼 <데이터로 움직이는 출판시장> 개최 안내(26.1…",
       "org": "한국출판문화산업진흥원(KPIPA)",

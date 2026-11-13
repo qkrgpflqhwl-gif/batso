@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13 02:22",
+  "updated_at": "2026-11-14 01:57",
   "total": 9,
   "programs": [
     {
@@ -28,6 +28,15 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.sbiz24.kr/#/extldPbanc"
+    },
+    {
+      "title": "[사업공고]2026년 권역별 선도서점 육성 사업 멘토링 프로그램 참여서점 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2198"
     },
     {
       "title": "[기타공고]제2회 2026 출판 데이터 마케팅 포럼 <데이터로 움직이는 출판시장> 개최 안내(26.1…",
@@ -73,15 +82,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2187"
-    },
-    {
-      "title": "[기타공고]제6차 출판문화산업 진흥 계획 수립을 위한 대국민 정책제안 공모",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2182"
     }
   ]
 }

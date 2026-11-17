@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-17 04:18",
-  "total": 10,
+  "updated_at": "2026-11-18 03:11",
+  "total": 11,
   "programs": [
     {
       "title": "소진공 지원사업 공고조회 및 신청",
@@ -30,7 +30,16 @@
       "url": "https://www.sbiz24.kr/#/extldPbanc"
     },
     {
-      "title": "[기타공고]2026 독서경영 우수 직장 인증제 영상 공모전 공모 연장 공고(~11월 27일까지)새글",
+      "title": "[사업공고]2027년 해외도서전 위탁도서 수출전문가 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2200"
+    },
+    {
+      "title": "[기타공고]2026 독서경영 우수 직장 인증제 영상 공모전 공모 연장 공고(~11월 27일까지)",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",

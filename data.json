@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19 02:49",
-  "total": 12,
+  "updated_at": "2026-11-20 02:58",
+  "total": 14,
   "programs": [
     {
       "title": "소진공 지원사업 공고조회 및 신청",
@@ -30,7 +30,43 @@
       "url": "https://www.sbiz24.kr/#/extldPbanc"
     },
     {
-      "title": "[사업공고]2026년 지역서점 육성 교육 프로그램 참가자 모집 공고새글",
+      "title": "[기타공고]저작권 보호 및 불법복제 대응 신고절차 설명회 참여 모집새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2206"
+    },
+    {
+      "title": "[사업공고]2027년 볼로냐아동도서전 참가사 및 위탁도서 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2205"
+    },
+    {
+      "title": "[사업공고]2027년 런던도서전 참가사 및 위탁도서 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2204"
+    },
+    {
+      "title": "[사업공고]2027년 볼로냐아동도서전 참여작가 및 전시작가 모집 공고새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2203"
+    },
+    {
+      "title": "[사업공고]2026년 지역서점 육성 교육 프로그램 참가자 모집 공고",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -39,7 +75,7 @@
       "url": "https://www.kpipa.or.kr/p/g1_2/2202"
     },
     {
-      "title": "[기타공고]2027년도 출판문화산업 정책연구과제 연구주제 제안 안내새글",
+      "title": "[기타공고]2027년도 출판문화산업 정책연구과제 연구주제 제안 안내",
       "org": "한국출판문화산업진흥원(KPIPA)",
       "source": "KPIPA",
       "summary": "",
@@ -91,24 +127,6 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.kpipa.or.kr/p/g1_2/2194"
-    },
-    {
-      "title": "[사업공고]2026년 권역별 선도서점 육성 사업 컨설팅(경영·마케팅·디지털) 참여서점 2차 추가 모집…",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2191"
-    },
-    {
-      "title": "[기타공고]2026년 제10회 서점의 날 기념식",
-      "org": "한국출판문화산업진흥원(KPIPA)",
-      "source": "KPIPA",
-      "summary": "",
-      "deadline": null,
-      "days_left": null,
-      "url": "https://www.kpipa.or.kr/p/g1_2/2189"
     }
   ]
 }

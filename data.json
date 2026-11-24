@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24 05:54",
-  "total": 14,
+  "updated_at": "2026-11-25 04:57",
+  "total": 15,
   "programs": [
     {
       "title": "소진공 지원사업 공고조회 및 신청",
@@ -28,6 +28,15 @@
       "deadline": null,
       "days_left": null,
       "url": "https://www.sbiz24.kr/#/extldPbanc"
+    },
+    {
+      "title": "[사업공고]<지역서점 및 지역서점협동조합 확인 절차> 안내(2026년 2차)새글",
+      "org": "한국출판문화산업진흥원(KPIPA)",
+      "source": "KPIPA",
+      "summary": "",
+      "deadline": null,
+      "days_left": null,
+      "url": "https://www.kpipa.or.kr/p/g1_2/2207"
     },
     {
       "title": "[기타공고]저작권 보호 및 불법복제 대응 신고절차 설명회 참여 모집",
